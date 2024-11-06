@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ali-Primer(Ali Mousavi)
-- 🌱 training next js
+- 🌱 NextJS developer
 
 <!---
 Ali-Primer/Ali-Primer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
